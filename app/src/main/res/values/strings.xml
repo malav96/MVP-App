@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MVP Utility App</string>
+
+    <string name="shared_preferences_name">UtilityApp</string>
+    <string name="database_name">UtilityApp.db</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- View state messages -->
+    <string name="msg_no_internet_title">No internet connection</string>
+    <string name="msg_no_internet_message">Make sure that Wi-Fi or cellular mobile data is turned on, then try again.</string>
+    <string name="msg_server_error_title">Something went wrong</string>
+    <string name="msg_server_error_message">There was a problem while connecting to our server, please try again.</string>
+    <string name="msg_no_records_title">No records found</string>
+    <string name="msg_no_records_message">There are no records to display, please try again.</string>
+
+    <string name="msg_waiting_for_location">Waiting for location&#8230;</string>
+
+    <string name="button_try_again">TRY AGAIN</string>
+    <string name="button_settings">SETTINGS</string>
+    <string name="button_not_now">NOT NOW</string>
+
+
+    <string name="action_dial_call">tel:%1$s</string>
+    <string name="action_sms">smsto:%1$s</string>
+    <string name="action_sms_body">sms_body</string>
+
+    <string name="error_message_phone_number_not_available">Phone number isn\'t available.</string>
+
+    <string name="error_browser_app_not_found">Sorry, could not find browser application on this device.</string>
+    <string name="error_message_app_not_found">Sorry, could not find messages application on this device.</string>
+    <string name="error_video_app_not_found">Sorry, could not find video application on this device.</string>
+    <string name="error_dialer_app_not_found">Sorry, could not find dialer application on this device.</string>
+    <string name="error_camera_app_not_found">Sorry, could not find camera application on this device.</string>
+    <string name="error_map_app_not_found">Sorry, could not find maps application on this device.</string>
+
+
+    <string name="dialog_title_permission_location">Allow location permission</string>
+    <string name="error_message_permission_permanent_denial_location">To view your current location, allow the app access to your location. Go to settings and enable location permission.</string>
+
+</resources>
